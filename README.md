@@ -38,7 +38,7 @@ This project centers on the analysis of Global Superstore, a New York-based glob
 
 The project focuses on analyzing the Global Superstore dataset, which is sourced from an Excel workbook containing multiple sheets. The data includes sales records, return information, and personnel details, covering various aspects of Global Superstore’s operations across 147 countries and a diverse product catalog.
 
-- Data Source: File:[GlobalSuperstore - Capstone.xlsx](https://github.com/user-attachments/files/16633663/GlobalSuperstore.-.Capstone.xlsx)
+- Data Source: File: [GlobalSuperstore - Capstone.xlsx](https://github.com/user-attachments/files/16633663/GlobalSuperstore.-.Capstone.xlsx)
 
 - Sheets:
 
